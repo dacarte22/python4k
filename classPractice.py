@@ -6,3 +6,6 @@ class Animals(Animate):
     def eat_food(self):
         print('eating food')
     
+
+def main():
+    reginalt = Girrafes()
